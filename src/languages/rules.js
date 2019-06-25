@@ -6,7 +6,7 @@ Category: common
 function(hljs) {
   var KEYWORDS = {
     keyword:
-      'and = != > >= < <= in not in exists does not exist',
+      'and = != > >= < <= in not in exists does not exist contains',
     literal: 'exists does not exist'
   };
   return {
